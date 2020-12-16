@@ -121,7 +121,7 @@
         }).then(function(res) {
             return botui.message.bot({
                 delay: 1500,
-                content: "那么，仔细看看我的博客吧？ ^_^"
+                content: "那么，仔细看看我的博客吧？ ![](https://cdn.jsdelivr.net/gh/envies/CDN@202012161100/image/message/wt.jpg)"
             })
         });
     }
