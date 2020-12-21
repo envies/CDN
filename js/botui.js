@@ -4578,7 +4578,7 @@
         }).then(function(res) {
             return botui.message.bot({
                 delay: 1500,
-                content: "暂时还没得域名的哦，自行车会有的 _(:з」∠)_"
+                content: "域名就常用ID,基操基操 _(:з」∠)_"
             })
         }).then(function(res) {
             return botui.message.bot({
